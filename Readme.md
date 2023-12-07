@@ -5,7 +5,7 @@
 
 - :house_with_garden: I’m from Brazil.
   
-- 🔭 I am a fifth semester systems analysis student<br>and my focus is backend development
+- 🔭 I am a third semester systems analysis student<br>and my focus is backend development
 
 - 🌱 I’m currently learning<br>  **PHP, JavaScript, HTML, CSS, React and Node.JS**, applying it to my personal projects
 
@@ -36,12 +36,11 @@
 ## Contact
 
 <p align="left" style="background:yellow">
-
-<a href="https://linkedin.com/in/gabrieladiasdutra" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-gabrieladutra-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
 <a href="mailto://eduardosiqueira0104@gmail.com" target="_blank">
  <img align="center" src="https://img.shields.io/badge/mail-gabrieladutra-blue" alt="mail"/>
+</a>
+<a href="https://linkedin.com/in/gabrieladiasdutra" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-gabrieladutra-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 </p>
 
