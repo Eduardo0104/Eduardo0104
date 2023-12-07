@@ -27,8 +27,8 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="350em" src="https://github-readme-stats.vercel.app/api?username=Eduardo0104&show_icons=true&theme=vision-friendly-dark" alt="gabrieladutra's stats"/>
-<img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo0104&layout=compact&theme=vision-friendly-dark" alt="gabrieladutra's most languages"/>
+<img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo0104&layout=compact&theme=vision-friendly-dark" alt="eduardo0104's most languages"/>
+<img width="350em" src="https://github-readme-stats.vercel.app/api?username=Eduardo0104&show_icons=true&theme=vision-friendly-dark" alt="eduardo0104's stats"/>
 </p>
 
 <br>
@@ -37,10 +37,10 @@
 
 <p align="left" style="background:yellow">
 <a href="mailto://eduardosiqueira0104@gmail.com" target="_blank">
- <img align="center" src="https://img.shields.io/badge/mail-gabrieladutra-blue" alt="mail"/>
+ <img align="center" src="https://img.shields.io/badge/mail--eduardo0104-blue" alt="mail"/>
 </a>
 <a href="https://linkedin.com/in/gabrieladiasdutra" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-gabrieladutra-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-eduardo0104-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 </p>
 
