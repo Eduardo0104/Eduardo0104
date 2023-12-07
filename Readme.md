@@ -1,5 +1,3 @@
-//<img align="right" height="300em" 
- src="https://raw.githubusercontent.com/gist/Eduardo0104/cfe4b621aac6405726c95269e5f37f41/raw/8f1456b54d1b25d59dc4c5daae3e67ab35c7457a/githubcard.svg"/>
 <h2 align="left">Hello World <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="20px">, I'm Eduardo</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Eduardo&color=yellow" alt="Profile views" /> </p>
 
