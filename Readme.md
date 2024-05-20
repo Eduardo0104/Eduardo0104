@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Eduardo&color=yellow" alt="Profile views" /> </p>
 
 
-- :house_with_garden: I’m from Brazil.
+- :house_with_garden: Eu sou do Brasil.
 
 🏢 Eu trabalho como Analista de Suporte com foco em Infraestrutura.
 
