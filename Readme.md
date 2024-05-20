@@ -18,7 +18,7 @@ Essa estrutura reflete meu perfil como Analista de Suporte com foco em Infraestr
 
 ### 🛠 &nbsp;Tech Stack
 
-![PHP](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=PHP)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
 ![Shell](https://img.shields.io/badge/-SHELL-05122A?style=flat&logo=SHELL)&nbsp;
 
