@@ -3,23 +3,24 @@
 
 
 - :house_with_garden: I’m from Brazil.
-  
-- 🔭 I am a third semester systems analysis student<br>and my focus is backend development
 
-- 🌱 I’m currently learning<br>  **PHP, JavaScript, HTML, CSS, React and Node.JS**, applying it to my personal projects
+🏢 Eu trabalho como Analista de Suporte com foco em Infraestrutura.
 
-- ⚡ Fun fact: I enjoy learning about new cultures and art whether traveling or studying
+🔭 Estou atualmente no processo de aprimoramento dos meus conhecimentos em Gestão de Tecnologia da Informação.
+
+🌱 Estou aprendendo sobre Gestão de TI, incluindo temas como ITIL, COBIT e práticas de governança de TI.
+
+⚡ Uma curiosidade: Gosto de explorar diferentes scripts em shell para automatizar tarefas rotineiras e otimizar processos de infraestrutura.
+
+Essa estrutura reflete meu perfil como Analista de Suporte com foco em Infraestrutura, enfatizando minha jornada de aprendizado em Gestão de Tecnologia da Informação e meu interesse em utilizar scripts em shell para melhorar a eficiência operacional.
+
 <br>
 
 ### 🛠 &nbsp;Tech Stack
 
 ![PHP](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=PHP)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
+![Shell](https://img.shields.io/badge/-SHELL-05122A?style=flat&logo=SHELL)&nbsp;
 
 <br>
 
