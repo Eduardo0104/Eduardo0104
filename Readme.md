@@ -27,8 +27,8 @@ Essa estrutura reflete meu perfil como Analista de Suporte com foco em Infraestr
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="350em" src="https://github-readme-stats.vercel.app/api?username=Eduardo0104&show_icons=true&theme=vision-friendly-dark" alt="Eduardo's stats"/>
 <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo0104&layout=compact&theme=vision-friendly-dark" alt="Eduardo's most languages"/>
+<img width="350em" src="https://github-readme-stats.vercel.app/api?username=Eduardo0104&show_icons=true&theme=vision-friendly-dark" alt="Eduardo's stats"/>
 </p>
 
 <br>
